@@ -4,9 +4,9 @@ Author: **SpaceGeorge**
 
 Customizable pronouns and gender mod for Link and Zelda in Breath of the Wild - Switch version.
 Contains the following mod sets:
-1.  Link's Pronoun Wardrobe
-2.  Zelda's Pronoun Wardrobe
-3.  DIY Pronoun Wardrobe
+1.  Link's Pronoun Wardrobe (Switch)
+2.  Zelda's Pronoun Wardrobe (Switch)
+3.  DIY Pronoun Wardrobe (Switch)
 ### Requires:
 1.	**BCML** (Required for all 3 mod sets; the rest are required only for DIY Pronoun Wardrobe)
 2.	**Python 3.9+ 64bit**
